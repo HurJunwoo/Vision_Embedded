@@ -1,2 +1,2 @@
 # Vision_Embedded
-OpenCV+yolov8
+The World Embedded Software Contest 2025
